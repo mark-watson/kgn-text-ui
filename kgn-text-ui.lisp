@@ -1,3 +1,6 @@
+;; Compyright 2021-2022 Mark Watson All Rights Reserved.
+;; License: Apache 2
+
 (in-package #:kgn-text-ui)
 
 (defun pprint-results (results)
